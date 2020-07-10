@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Web Design'
+title: 'Full Stack Developer'
 icon: 'laptop-code'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Familiar with both Front-end and Back-end technology, databases, API and version control systems. Well-versed in JS, ReactJS, NodeJS, MongoDB.'
 ---
