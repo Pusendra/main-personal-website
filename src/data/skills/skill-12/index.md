@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'C|C++'
-percentage: 60
+percentage: 6
 ---

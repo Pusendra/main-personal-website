@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'NodeJS'
-percentage: 70
+percentage: 10
 ---

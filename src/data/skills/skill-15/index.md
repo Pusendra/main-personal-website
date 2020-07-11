@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'Flask'
-percentage: 60
+percentage: 5
 ---
