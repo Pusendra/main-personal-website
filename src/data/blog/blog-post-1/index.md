@@ -1,14 +1,14 @@
 ---
 category: 'blog'
 cover: './cover.jpg'
-title: 'Staff and Student Information Management System'
-description: 'Systematically manages the record of student and staff in an educational institutions.'
+title: 'Mero Yatra'
+description: 'A travel blog using django.'
 date: '2017-09-13'
-tags: ['C++', 'QT', 'SQLite']
+tags: ['Python', 'Django', 'Bootstrap']
 published: true
 ---
 
-Systematically manages the record of student and staff in an educational institutions.
+A travel blog using django.
 
 **Source Code is available at:**<br>
-[Github: Staff and Student Information Management System](https://github.com/Junth/Staff-and-student-Management)
+[Github: Mero Yatra](https://github.com/Pusendra/Meroyatra)
