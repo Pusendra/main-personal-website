@@ -2,5 +2,5 @@
 category: 'contact'
 title: 'Address'
 icon: 'map-marker-alt'
-content: 'Pepsicola, Kathmandu 44600, Bagmati, Nepal'
+content: 'Beltar, Udayapur 44200, Sagarmatha, Nepal'
 ---
