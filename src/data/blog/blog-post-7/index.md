@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-cover: './cover.png'
+cover: './cover.jpg'
 title: 'burger-animation'
 description: 'A burger animation to brush up my react skills..'
 date: '2020-04-02'

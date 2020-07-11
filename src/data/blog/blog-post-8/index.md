@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-cover: './front.png'
+cover: './cover.jpg'
 title: 'LinkedIn-Automator'
 description: 'A script using selenium to automate linkedin tasks.'
 date: '2019-12-25'

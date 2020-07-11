@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-cover: './cover.png'
+cover: './cover.jpg'
 title: 'Motorbazar'
 description: 'A website for selling and buying second hand vehicles..'
 date: '2019-05-12'
